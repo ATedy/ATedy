@@ -1,8 +1,8 @@
 ### Hello there👋, I'm Amanuel, a full stack developer looking for new exciting roles.
 
-- 🌱 I’m currently learning redux-react, mongoDB, and improving my other skills as weel
-- 👯 Beside my job hunt journey I am looking contribute to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m looking roles where I can contribute with skill sets I have and improve my craft as well.
+- 👯 Beside my job hunt I am looking open source projects that I can contribute and learn.
+- ⚡ Playing football, cycling, visiting new places, playing pool are things I enjoy doing.
 
 ### Connect with me:
 
