@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Amanuel | LinkedIn" color="blue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Amanuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -30,7 +30,5 @@
 ---
 
 <img align="left" alt="ATedy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ATedy&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img align="left" alt="ATedy's GitHub Stats" src="https://github-readme-repo.vercel.app/api?username=ATedy&show_icons=true&theme=tokyonight&hide_border=true" />
 
 [linkedin]: https://linkedin.com/in/amanuel-tedros
