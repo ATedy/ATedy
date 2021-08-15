@@ -27,10 +27,12 @@
 
 <br />
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ATedy's GitHub Stats" src="https://github-readme-stats.ATedy.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="ATedy's GitHub Stats" src="https://github-readme-stats.ATedy.vercel.app/api?username=ATedy&show_icons=true&hide_border=true" />
 
 </details>
 
