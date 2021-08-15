@@ -29,6 +29,6 @@
 
 ---
 
-<img align="left" alt="ATedy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ATedy&show_icons=true&theme=tokyonight&hide_border=true />
+<img align="left" alt="ATedy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ATedy&show_icons=true&theme=tokyonight&hide_border=true" />
 
 [linkedin]: https://linkedin.com/in/amanuel-tedros
