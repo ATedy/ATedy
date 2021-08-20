@@ -2,7 +2,6 @@
 
 - 🌱 I’m looking for roles where I can use the skill sets I have, learn new skill and improve my craft as well.
 - 👯 Beside my job hunt I am looking for open source projects that I can contribute and learn from them too.
-- ⚡ Playing football, cycling, visiting new places, playing pool are things I enjoy doing.
 
 ### Connect with me:
 
