@@ -1,7 +1,4 @@
-### Hello there👋, I'm Amanuel, full stack developer looking for new exciting roles.
-
-- 🌱 I’m looking for roles where I can use the skill sets I have, learn new skill and improve my craft as well.
-- 👯 Beside my job hunt I am looking for open source projects that I can contribute and learn from them too.
+### Hello there👋, I'm Amanuel, full stack developer.
 
 ### Connect with me:
 
