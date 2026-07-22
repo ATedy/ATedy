@@ -22,12 +22,12 @@
 const amanuel = {
   role:        "Full Stack Software Engineer & Consultant",
   location:    "Birmingham, UK 🇬🇧",
-  experience:  "4+ years · UK Gov consulting (Version 1, Capgemini)",
-  clients:     ["HMCTS", "HMRC", "Home Office", "Companies House"],
-  stack:       ["JavaScript", "TypeScript", "Java", "React", "Node.js", "Spring Boot"],
+  experience:  "5+ years · UK Gov consulting (Version 1, Capgemini)",
+  clients:     ["HMCTS", "HMRC", "Companies House"],
+  stack:       ["JavaScript", "TypeScript", "Java", "React.js", "Node.js", "Express.js", "Nest.js","Spring Boot"],
   cloud:       ["AWS ☁️ (pursuing Cloud Developer cert)", "Azure", "Docker", "Kubernetes"],
   learning:    ["Next.js", "React Native", "System Design", "Kafka", "RabbitMQ"],
-  languages:   ["English", "Tigrinya", "Amharic", "Arabic (conversational)"]
+  languages:   ["English", "Tigrinya", "Amharic"]
 };
 ```
 
