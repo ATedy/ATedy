@@ -181,7 +181,7 @@ const amanuel = {
 
 ## 🌍 A Bit More
 
-- 🏛️ Delivered production services for **HMCTS, HMRC, Home Office & Companies House**
+- 🏛️ Delivered production services for **HMCTS, HMRC & Companies House**
 - ☁️ Pursuing **AWS Certified Cloud Developer** — deepening expertise in cloud-native architectures
 - 📡 Exploring **distributed systems** — Kafka, RabbitMQ, message queues, and event-driven patterns
 - 🌱 Deep-diving into **Next.js App Router**, **React Native**, and **System Design at scale**
